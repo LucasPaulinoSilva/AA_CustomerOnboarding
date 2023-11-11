@@ -2,6 +2,6 @@ LINK_ARQUIVO_CSV = "https://aai-devportal-media.s3.us-west-2.amazonaws.com/chall
 
 LINK_DESAFIO = "https://developer.automationanywhere.com/challenges/automationanywherelabs-customeronboarding.html"
 
-PASTA_ARQUIVOS = "C:\\Users\Lucas\Desktop\Python\DesafiosRPA\CustomerOnBoarding\ArquivoCSV/"
+PASTA_ARQUIVOS = ""
 
 NOME_ARQUIVO = "customer-onboarding-challenge.csv"
